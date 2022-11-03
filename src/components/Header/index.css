@@ -1,0 +1,31 @@
+.container {
+  font-family: 'Roboto';
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.con {
+  display: flex;
+  justify-content: space-between;
+}
+.contain {
+  list-style-type: none;
+  justify-content: space-between;
+  display: flex;
+  color: #12022f;
+  font-size: 30px;
+  font-weight: bold;
+}
+.img1 {
+  height: 50px;
+}
+
+.wave {
+  color: #12022f;
+  font-size: 35px;
+  font-weight: bold;
+}
+.list {
+  margin: 0px 5px 0px 5px;
+  color: #12022f;
+}
